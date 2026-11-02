@@ -1,8 +1,8 @@
-# Afterlife
+# Echoes
 
 **Every streamer has a story. Make it searchable.**
 
-Afterlife is a video-first, community-maintained encyclopedia for Twitch. The MVP has persistent wiki/video/source records, creator OAuth, public VOD metadata import, authorized uploads, source-grounded search, community contributions, and explicit synthetic sample content. Sample entries and timestamps do not represent real broadcasts and are not playable media.
+Echoes is a video-first, community-maintained encyclopedia for Twitch. The MVP has persistent wiki/video/source records, creator OAuth, public VOD metadata import, authorized uploads, source-grounded search, community contributions, and explicit synthetic sample content. Sample entries and timestamps do not represent real broadcasts and are not playable media.
 
 ## Run locally
 
